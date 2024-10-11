@@ -1,0 +1,15 @@
+com\reto\tecnico\wilmer\smart\service\impl\UserServiceImplTest.class
+com\reto\tecnico\wilmer\smart\service\IUserServiceTest.class
+com\reto\tecnico\wilmer\smart\SmartApplicationTests.class
+com\reto\tecnico\wilmer\smart\exceptions\CustomExceptionHandlerTest.class
+com\reto\tecnico\wilmer\smart\model\PhoneTest.class
+com\reto\tecnico\wilmer\smart\model\response\AuthResponseTest.class
+com\reto\tecnico\wilmer\smart\model\UsersTest.class
+com\reto\tecnico\wilmer\smart\exceptions\CustomExceptionTest.class
+com\reto\tecnico\wilmer\smart\model\BaseEntityTest.class
+com\reto\tecnico\wilmer\smart\controller\AuthControllerTest.class
+com\reto\tecnico\wilmer\smart\model\request\AuthRequestTest.class
+com\reto\tecnico\wilmer\smart\repository\IUserRepositoryTest.class
+com\reto\tecnico\wilmer\smart\service\IAuthServiceTest.class
+com\reto\tecnico\wilmer\smart\service\impl\AuthServiceImplTest.class
+com\reto\tecnico\wilmer\smart\controller\UserControllerTest.class
